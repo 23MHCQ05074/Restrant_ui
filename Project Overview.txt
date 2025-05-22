@@ -1,0 +1,100 @@
+Project Overview
+
+Project Name: Eatland Plat
+form: Web Application Design
+Tool: Figma and Sketch 
+Objective: To design a clean, responsive, and user-friendly interface for a modern food delivery platform that enhances user experience with seamless navigation and interactive elements.
+
+Problem Statement:
+
+Users often struggle with cluttered food delivery interfaces that lack intuitive categorization, efficient navigation, and engaging visuals. Many platforms fail to incorporate helpful reading material (e.g., food blogs, deals) alongside ordering features.
+
+Goal:
+Design a UI that integrates food discovery, promotional content, and educational articles with smooth auto-scrolling and well-organized categories.
+
+Target Users:
+
+Young professionals who frequently order food online
+
+Food lovers looking for variety and quick browsing
+
+Readers interested in food blogs, deals, and recipes
+
+Design Process
+
+1. Research
+
+Conducted competitive analysis of top food delivery apps (Swiggy and Zomato)
+
+Studied user pain points: information overload, poor navigation, lack of visual hierarchy
+
+2. Wireframing
+
+Created low-fidelity wireframes outlining:
+
+Sidebar navigation
+
+Horizontal food category scroll
+
+Vertical food item listing with prices & favorite button
+
+Right-side article feed for blog posts and news
+
+3. UI Design (in Figma)
+
+Used soft pastel colors for modern aesthetics
+
+Added icons for categories and sidebar for intuitive navigation
+
+Designed scrollable product cards with key item details
+
+Integrated auto-scroll functionality:
+
+Horizontal Scroll: Food category navigation
+
+Vertical Scroll: Main content (products and articles)
+
+Included promotional section for deals
+
+4. Visual & Interaction Details
+
+Hover effects on product cards and buttons
+
+Responsive layout for various screen sizes
+
+Emphasis on whitespace and visual hierarchy
+
+Key Features
+
+Sidebar Navigation: Persistent left panel for quick access
+
+Search Bar: Center-top location for easy item discovery
+
+Horizontal Scroll: Smooth category browsing with food icons
+
+Vertical Scroll: Full content accessibility including blogs and products
+
+Promotional Banner: Highlighting discounts
+
+Articles Section: Keeps users engaged beyond ordering
+
+Tools Used
+
+Figma: For wireframing, prototyping, and visual design
+
+Auto-layout & Scroll Groups: For responsive and scrollable sections
+
+Challenges Faced
+
+Creating a layout that balances promotional, browsing, and reading experiences
+
+Ensuring responsiveness across devices while maintaining design aesthetics
+
+Designing scroll interactions that feel natural and smooth
+
+Conclusion
+
+Eatland successfully blends functionality with user-centric design. It enables users to explore, read, and order food effortlessly. With smooth auto-scrolling, modern visuals, and a content-rich interface, it aims to deliver an engaging and enjoyable food delivery experience.
+
+
+
